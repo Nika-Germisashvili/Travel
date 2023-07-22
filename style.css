@@ -23,8 +23,6 @@ body {
 @media screen and (max-width: 990px) {
   body {
     padding: 0 16px !important;
-    overflow-x: visible !important;
-    width: 100vw !important;
   }
 
   .a-1 {
