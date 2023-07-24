@@ -368,7 +368,7 @@ body {
   .svg-arrw-1, .svg-arrw-2, .svg-arrw-3 {
     display: block !important;
     position: absolute !important;
-    right: 16px;
+    left: 360px;
   }
 
   .svg-arrw-1 {
@@ -415,8 +415,6 @@ body {
     top: 2308px !important;
     margin-left: 12px;
   }
-
-
 
 }
 
